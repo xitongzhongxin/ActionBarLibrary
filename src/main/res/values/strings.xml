@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="toast_copy_ok">内容已复制</string>
+</resources>
